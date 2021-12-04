@@ -57,5 +57,6 @@ main() {
 }
 
 main "$@"
-
+#output hostname
+hostname
 exit $?
