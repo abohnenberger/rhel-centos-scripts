@@ -55,7 +55,7 @@ main() {
 
 	return 0
 }
-echo hostname
+echo "Your new hostname is ${hostname}"
 main "$@"
 
 exit $?
