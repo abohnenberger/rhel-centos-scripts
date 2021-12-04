@@ -55,7 +55,7 @@ main() {
 
 	return 0
 }
-
+echo hostname
 main "$@"
 
 exit $?
